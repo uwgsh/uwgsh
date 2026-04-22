@@ -3,4 +3,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uwgsh&layout=compact&theme=chartreuse-dark)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=uwgsh&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
